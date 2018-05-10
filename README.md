@@ -1,4 +1,4 @@
-# Recognize Dogs and Cats
+# Dog and Cat Recognizer
 
 This web service have a piece of softwarex (Convultional Neural Network) to recognize photos of dogs and cats and tells you whether the photo shows a dog or a cat.
 Your uploaded photos will be deleted immediately after the automatic recognition is done and never saved in the server.
@@ -8,7 +8,7 @@ The photos used to train the neural network are acquired from a [Kaggle competit
 Now the recognition accuracy has reached around 94% with VGG16 + fine tuning, which is fairly good, although there is still room for improvement.
 
 ## Usage
-Access to https://recognize-dogs-and-cats.herokuapp.com/.
+Access to https://dog-cat-recognizer.herokuapp.com/.
 
 ## Contributing
 Special thanks go to the development teams of Tensorflow, Keras, Flask and Kaggle.com.
